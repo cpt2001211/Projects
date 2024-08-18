@@ -1,0 +1,72 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0px;
+}
+.item1{
+    margin-top: 20px;
+
+}
+.logo{
+    height: 60px;
+    width: auto;
+}
+
+.banner{
+    height: 65vh;
+    max-width: 100%;
+}
+
+.links{
+    float: right;
+    height: 15px;
+    width: 15%;
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    color: black;
+}
+
+.signup{
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+    margin-right: 50px;
+
+}
+h1{
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+h2{
+    color: gray;
+    margin: 0px;
+}
+
+.locationinput{
+    width: 70%;
+    height: 25px;
+    color: gray;
+    margin: 40px auto auto 0px;
+    font-size: 18px !important;
+    padding: 10px;
+    font-weight: 500;
+}
+.location{
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    top: 249px;
+    left: 435px;
+    padding: 15px;
+}
+button:hover{
+    background-color: blanchedalmond;
+}
+
+.findfood{
+    
+}
